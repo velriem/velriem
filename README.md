@@ -7,6 +7,7 @@
 <img width="101" height="58" alt="17808465765111800633052558637429" src="https://github.com/user-attachments/assets/32e46a4a-bfad-4453-a1ae-0f76b04b9027" />
 </p>
 <p align="center">
+<img width="400" height="73" alt="17808468380771992468882345663474" src="https://github.com/user-attachments/assets/eac64ff8-25af-4ae7-a951-f72888a10c9a" />
 
 
 <!--
