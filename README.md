@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="150" height="20" alt="17808444737171928065077425203372" src="https://github.com/user-attachments/assets/e4571064-76e0-400e-867e-0359057f8d47" />
+
 
 <!--
 **velriem/velriem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
